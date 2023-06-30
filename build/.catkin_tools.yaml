@@ -1,0 +1,6 @@
+devel_space: /home/ammar/r1_wiki_ws/devel
+install: false
+install_space: /home/ammar/r1_wiki_ws/install
+profile: default
+source_space: /home/ammar/r1_wiki_ws/src
+workspace: /home/ammar/r1_wiki_ws
